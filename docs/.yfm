@@ -1,1 +1,5 @@
+allowHTML: true
+strict: false
+breaks: false
+
 langs: ['en']
